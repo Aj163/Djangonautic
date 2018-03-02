@@ -7,7 +7,7 @@ A blog website created using django
 1. Clone the repository
 > ```$ git clone https://github.com/Aj163/Djangonautic.git```
 2. Change directory
-> ```$ cd djangonautic```
+> ```$ cd Djangonautic/djangonautic```
 3. Run the server
 > ```$ python manage.py runserver```
 
